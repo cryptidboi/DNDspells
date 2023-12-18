@@ -1,0 +1,1444 @@
+{
+	"fileType": "spells-sublist",
+	"siteVersion": "1.196.0",
+	"name": "Core Spells",
+	"saveId": "74c606d1-f75f-415d-ac3e-b392643298a0",
+	"items": [
+		{
+			"h": "abi-dalzim's%20horrid%20wilting_xge"
+		},
+		{
+			"h": "psychic%20scream_xge"
+		},
+		{
+			"h": "power%20word%20kill_phb"
+		},
+		{
+			"h": "meteor%20swarm_phb"
+		},
+		{
+			"h": "mass%20polymorph_xge"
+		},
+		{
+			"h": "gate_phb"
+		},
+		{
+			"h": "power%20word%20stun_phb"
+		},
+		{
+			"h": "incendiary%20cloud_phb"
+		},
+		{
+			"h": "earthquake_phb"
+		},
+		{
+			"h": "dominate%20monster_phb"
+		},
+		{
+			"h": "whirlwind_xge"
+		},
+		{
+			"h": "teleport_phb"
+		},
+		{
+			"h": "weird_phb"
+		},
+		{
+			"h": "true%20resurrection_phb"
+		},
+		{
+			"h": "true%20polymorph_phb"
+		},
+		{
+			"h": "time%20stop_phb"
+		},
+		{
+			"h": "storm%20of%20vengeance_phb"
+		},
+		{
+			"h": "shapechange_phb"
+		},
+		{
+			"h": "prismatic%20wall_phb"
+		},
+		{
+			"h": "power%20word%20heal_phb"
+		},
+		{
+			"h": "mass%20heal_phb"
+		},
+		{
+			"h": "invulnerability_xge"
+		},
+		{
+			"h": "imprisonment_phb"
+		},
+		{
+			"h": "foresight_phb"
+		},
+		{
+			"h": "blade%20of%20disaster_tce"
+		},
+		{
+			"h": "astral%20projection_phb"
+		},
+		{
+			"h": "tsunami_phb"
+		},
+		{
+			"h": "telepathy_phb"
+		},
+		{
+			"h": "sunburst_phb"
+		},
+		{
+			"h": "mind%20blank_phb"
+		},
+		{
+			"h": "mighty%20fortress_xge"
+		},
+		{
+			"h": "maze_phb"
+		},
+		{
+			"h": "maddening%20darkness_xge"
+		},
+		{
+			"h": "illusory%20dragon_xge"
+		},
+		{
+			"h": "holy%20aura_phb"
+		},
+		{
+			"h": "glibness_phb"
+		},
+		{
+			"h": "feeblemind_phb"
+		},
+		{
+			"h": "demiplane_phb"
+		},
+		{
+			"h": "control%20weather_phb"
+		},
+		{
+			"h": "clone_phb"
+		},
+		{
+			"h": "antipathy%2fsympathy_phb"
+		},
+		{
+			"h": "antimagic%20field_phb"
+		},
+		{
+			"h": "animal%20shapes_phb"
+		},
+		{
+			"h": "temple%20of%20the%20gods_xge"
+		},
+		{
+			"h": "symbol_phb"
+		},
+		{
+			"h": "simulacrum_phb"
+		},
+		{
+			"h": "sequester_phb"
+		},
+		{
+			"h": "reverse%20gravity_phb"
+		},
+		{
+			"h": "resurrection_phb"
+		},
+		{
+			"h": "regenerate_phb"
+		},
+		{
+			"h": "project%20image_phb"
+		},
+		{
+			"h": "prismatic%20spray_phb"
+		},
+		{
+			"h": "power%20word%20pain_xge"
+		},
+		{
+			"h": "plane%20shift_phb"
+		},
+		{
+			"h": "mordenkainen's%20sword_phb"
+		},
+		{
+			"h": "mordenkainen's%20magnificent%20mansion_phb"
+		},
+		{
+			"h": "mirage%20arcane_phb"
+		},
+		{
+			"h": "forcecage_phb"
+		},
+		{
+			"h": "fire%20storm_phb"
+		},
+		{
+			"h": "finger%20of%20death_phb"
+		},
+		{
+			"h": "etherealness_phb"
+		},
+		{
+			"h": "dream%20of%20the%20blue%20veil_tce"
+		},
+		{
+			"h": "divine%20word_phb"
+		},
+		{
+			"h": "delayed%20blast%20fireball_phb"
+		},
+		{
+			"h": "crown%20of%20stars_xge"
+		},
+		{
+			"h": "conjure%20celestial_phb"
+		},
+		{
+			"h": "word%20of%20recall_phb"
+		},
+		{
+			"h": "wind%20walk_phb"
+		},
+		{
+			"h": "wall%20of%20thorns_phb"
+		},
+		{
+			"h": "wall%20of%20ice_phb"
+		},
+		{
+			"h": "true%20seeing_phb"
+		},
+		{
+			"h": "transport%20via%20plants_phb"
+		},
+		{
+			"h": "tenser's%20transformation_xge"
+		},
+		{
+			"h": "tasha's%20otherworldly%20guise_tce"
+		},
+		{
+			"h": "sunbeam_phb"
+		},
+		{
+			"h": "summon%20fiend_tce"
+		},
+		{
+			"h": "soul%20cage_xge"
+		},
+		{
+			"h": "scatter_xge"
+		},
+		{
+			"h": "programmed%20illusion_phb"
+		},
+		{
+			"h": "primordial%20ward_xge"
+		},
+		{
+			"h": "planar%20ally_phb"
+		},
+		{
+			"h": "otto's%20irresistible%20dance_phb"
+		},
+		{
+			"h": "otiluke's%20freezing%20sphere_phb"
+		},
+		{
+			"h": "move%20earth_phb"
+		},
+		{
+			"h": "mental%20prison_xge"
+		},
+		{
+			"h": "mass%20suggestion_phb"
+		},
+		{
+			"h": "magic%20jar_phb"
+		},
+		{
+			"h": "investiture%20of%20wind_xge"
+		},
+		{
+			"h": "investiture%20of%20stone_xge"
+		},
+		{
+			"h": "investiture%20of%20ice_xge"
+		},
+		{
+			"h": "investiture%20of%20flame_xge"
+		},
+		{
+			"h": "heroes'%20feast_phb"
+		},
+		{
+			"h": "heal_phb"
+		},
+		{
+			"h": "harm_phb"
+		},
+		{
+			"h": "guards%20and%20wards_phb"
+		},
+		{
+			"h": "globe%20of%20invulnerability_phb"
+		},
+		{
+			"h": "forbiddance_phb"
+		},
+		{
+			"h": "flesh%20to%20stone_phb"
+		},
+		{
+			"h": "find%20the%20path_phb"
+		},
+		{
+			"h": "eyebite_phb"
+		},
+		{
+			"h": "druid%20grove_xge"
+		},
+		{
+			"h": "drawmij's%20instant%20summons_phb"
+		},
+		{
+			"h": "disintegrate_phb"
+		},
+		{
+			"h": "create%20undead_phb"
+		},
+		{
+			"h": "create%20homunculus_xge"
+		},
+		{
+			"h": "contingency_phb"
+		},
+		{
+			"h": "conjure%20fey_phb"
+		},
+		{
+			"h": "circle%20of%20death_phb"
+		},
+		{
+			"h": "chain%20lightning_phb"
+		},
+		{
+			"h": "bones%20of%20the%20earth_xge"
+		},
+		{
+			"h": "blade%20barrier_phb"
+		},
+		{
+			"h": "arcane%20gate_phb"
+		},
+		{
+			"h": "wrath%20of%20nature_xge"
+		},
+		{
+			"h": "wall%20of%20stone_phb"
+		},
+		{
+			"h": "wall%20of%20light_xge"
+		},
+		{
+			"h": "wall%20of%20force_phb"
+		},
+		{
+			"h": "tree%20stride_phb"
+		},
+		{
+			"h": "transmute%20rock_xge"
+		},
+		{
+			"h": "teleportation%20circle_phb"
+		},
+		{
+			"h": "telekinesis_phb"
+		},
+		{
+			"h": "synaptic%20static_xge"
+		},
+		{
+			"h": "swift%20quiver_phb"
+		},
+		{
+			"h": "summon%20celestial_tce"
+		},
+		{
+			"h": "steel%20wind%20strike_xge"
+		},
+		{
+			"h": "skill%20empowerment_xge"
+		},
+		{
+			"h": "seeming_phb"
+		},
+		{
+			"h": "scrying_phb"
+		},
+		{
+			"h": "reincarnate_phb"
+		},
+		{
+			"h": "rary's%20telepathic%20bond_phb"
+		},
+		{
+			"h": "raise%20dead_phb"
+		},
+		{
+			"h": "planar%20binding_phb"
+		},
+		{
+			"h": "passwall_phb"
+		},
+		{
+			"h": "negative%20energy%20flood_xge"
+		},
+		{
+			"h": "modify%20memory_phb"
+		},
+		{
+			"h": "mislead_phb"
+		},
+		{
+			"h": "mass%20cure%20wounds_phb"
+		},
+		{
+			"h": "maelstrom_xge"
+		},
+		{
+			"h": "legend%20lore_phb"
+		},
+		{
+			"h": "insect%20plague_phb"
+		},
+		{
+			"h": "infernal%20calling_xge"
+		},
+		{
+			"h": "immolation_xge"
+		},
+		{
+			"h": "holy%20weapon_xge"
+		},
+		{
+			"h": "hold%20monster_phb"
+		},
+		{
+			"h": "hallow_phb"
+		},
+		{
+			"h": "greater%20restoration_phb"
+		},
+		{
+			"h": "geas_phb"
+		},
+		{
+			"h": "flame%20strike_phb"
+		},
+		{
+			"h": "far%20step_xge"
+		},
+		{
+			"h": "enervation_xge"
+		},
+		{
+			"h": "dream_phb"
+		},
+		{
+			"h": "dominate%20person_phb"
+		},
+		{
+			"h": "dispel%20evil%20and%20good_phb"
+		},
+		{
+			"h": "destructive%20wave_phb"
+		},
+		{
+			"h": "dawn_xge"
+		},
+		{
+			"h": "danse%20macabre_xge"
+		},
+		{
+			"h": "creation_phb"
+		},
+		{
+			"h": "control%20winds_xge"
+		},
+		{
+			"h": "contagion_phb"
+		},
+		{
+			"h": "contact%20other%20plane_phb"
+		},
+		{
+			"h": "conjure%20volley_phb"
+		},
+		{
+			"h": "conjure%20elemental_phb"
+		},
+		{
+			"h": "cone%20of%20cold_phb"
+		},
+		{
+			"h": "commune%20with%20nature_phb"
+		},
+		{
+			"h": "commune_phb"
+		},
+		{
+			"h": "cloudkill_phb"
+		},
+		{
+			"h": "circle%20of%20power_phb"
+		},
+		{
+			"h": "bigby's%20hand_phb"
+		},
+		{
+			"h": "banishing%20smite_phb"
+		},
+		{
+			"h": "awaken_phb"
+		},
+		{
+			"h": "antilife%20shell_phb"
+		},
+		{
+			"h": "animate%20objects_phb"
+		},
+		{
+			"h": "watery%20sphere_xge"
+		},
+		{
+			"h": "wall%20of%20fire_phb"
+		},
+		{
+			"h": "vitriolic%20sphere_xge"
+		},
+		{
+			"h": "summon%20greater%20demon_xge"
+		},
+		{
+			"h": "summon%20elemental_tce"
+		},
+		{
+			"h": "summon%20construct_tce"
+		},
+		{
+			"h": "summon%20aberration_tce"
+		},
+		{
+			"h": "storm%20sphere_xge"
+		},
+		{
+			"h": "stoneskin_phb"
+		},
+		{
+			"h": "stone%20shape_phb"
+		},
+		{
+			"h": "staggering%20smite_phb"
+		},
+		{
+			"h": "sickening%20radiance_xge"
+		},
+		{
+			"h": "shadow%20of%20moil_xge"
+		},
+		{
+			"h": "polymorph_phb"
+		},
+		{
+			"h": "phantasmal%20killer_phb"
+		},
+		{
+			"h": "otiluke's%20resilient%20sphere_phb"
+		},
+		{
+			"h": "mordenkainen's%20private%20sanctum_phb"
+		},
+		{
+			"h": "mordenkainen's%20faithful%20hound_phb"
+		},
+		{
+			"h": "locate%20creature_phb"
+		},
+		{
+			"h": "leomund's%20secret%20chest_phb"
+		},
+		{
+			"h": "ice%20storm_phb"
+		},
+		{
+			"h": "hallucinatory%20terrain_phb"
+		},
+		{
+			"h": "guardian%20of%20nature_xge"
+		},
+		{
+			"h": "guardian%20of%20faith_phb"
+		},
+		{
+			"h": "greater%20invisibility_phb"
+		},
+		{
+			"h": "grasping%20vine_phb"
+		},
+		{
+			"h": "giant%20insect_phb"
+		},
+		{
+			"h": "freedom%20of%20movement_phb"
+		},
+		{
+			"h": "fire%20shield_phb"
+		},
+		{
+			"h": "find%20greater%20steed_xge"
+		},
+		{
+			"h": "fabricate_phb"
+		},
+		{
+			"h": "evard's%20black%20tentacles_phb"
+		},
+		{
+			"h": "elemental%20bane_xge"
+		},
+		{
+			"h": "dominate%20beast_phb"
+		},
+		{
+			"h": "divination_phb"
+		},
+		{
+			"h": "dimension%20door_phb"
+		},
+		{
+			"h": "death%20ward_phb"
+		},
+		{
+			"h": "control%20water_phb"
+		},
+		{
+			"h": "conjure%20woodland%20beings_phb"
+		},
+		{
+			"h": "conjure%20minor%20elementals_phb"
+		},
+		{
+			"h": "confusion_phb"
+		},
+		{
+			"h": "compulsion_phb"
+		},
+		{
+			"h": "charm%20monster_xge"
+		},
+		{
+			"h": "blight_phb"
+		},
+		{
+			"h": "banishment_phb"
+		},
+		{
+			"h": "aura%20of%20purity_phb"
+		},
+		{
+			"h": "aura%20of%20life_phb"
+		},
+		{
+			"h": "arcane%20eye_phb"
+		},
+		{
+			"h": "wind%20wall_phb"
+		},
+		{
+			"h": "water%20walk_phb"
+		},
+		{
+			"h": "water%20breathing_phb"
+		},
+		{
+			"h": "wall%20of%20water_xge"
+		},
+		{
+			"h": "wall%20of%20sand_xge"
+		},
+		{
+			"h": "vampiric%20touch_phb"
+		},
+		{
+			"h": "tongues_phb"
+		},
+		{
+			"h": "tiny%20servant_xge"
+		},
+		{
+			"h": "tidal%20wave_xge"
+		},
+		{
+			"h": "thunder%20step_xge"
+		},
+		{
+			"h": "summon%20undead_tce"
+		},
+		{
+			"h": "summon%20shadowspawn_tce"
+		},
+		{
+			"h": "summon%20lesser%20demons_xge"
+		},
+		{
+			"h": "summon%20fey_tce"
+		},
+		{
+			"h": "stinking%20cloud_phb"
+		},
+		{
+			"h": "spirit%20shroud_tce"
+		},
+		{
+			"h": "spirit%20guardians_phb"
+		},
+		{
+			"h": "speak%20with%20plants_phb"
+		},
+		{
+			"h": "speak%20with%20dead_phb"
+		},
+		{
+			"h": "slow_phb"
+		},
+		{
+			"h": "sleet%20storm_phb"
+		},
+		{
+			"h": "sending_phb"
+		},
+		{
+			"h": "revivify_phb"
+		},
+		{
+			"h": "remove%20curse_phb"
+		},
+		{
+			"h": "protection%20from%20energy_phb"
+		},
+		{
+			"h": "plant%20growth_phb"
+		},
+		{
+			"h": "phantom%20steed_phb"
+		},
+		{
+			"h": "nondetection_phb"
+		},
+		{
+			"h": "melf's%20minute%20meteors_xge"
+		},
+		{
+			"h": "meld%20into%20stone_phb"
+		},
+		{
+			"h": "mass%20healing%20word_phb"
+		},
+		{
+			"h": "major%20image_phb"
+		},
+		{
+			"h": "magic%20circle_phb"
+		},
+		{
+			"h": "lightning%20bolt_phb"
+		},
+		{
+			"h": "lightning%20arrow_phb"
+		},
+		{
+			"h": "life%20transference_xge"
+		},
+		{
+			"h": "leomund's%20tiny%20hut_phb"
+		},
+		{
+			"h": "intellect%20fortress_tce"
+		},
+		{
+			"h": "hypnotic%20pattern_phb"
+		},
+		{
+			"h": "hunger%20of%20hadar_phb"
+		},
+		{
+			"h": "haste_phb"
+		},
+		{
+			"h": "glyph%20of%20warding_phb"
+		},
+		{
+			"h": "gaseous%20form_phb"
+		},
+		{
+			"h": "fly_phb"
+		},
+		{
+			"h": "flame%20arrows_xge"
+		},
+		{
+			"h": "fireball_phb"
+		},
+		{
+			"h": "feign%20death_phb"
+		},
+		{
+			"h": "fear_phb"
+		},
+		{
+			"h": "erupting%20earth_xge"
+		},
+		{
+			"h": "enemies%20abound_xge"
+		},
+		{
+			"h": "elemental%20weapon_phb"
+		},
+		{
+			"h": "dispel%20magic_phb"
+		},
+		{
+			"h": "daylight_phb"
+		},
+		{
+			"h": "crusader's%20mantle_phb"
+		},
+		{
+			"h": "create%20food%20and%20water_phb"
+		},
+		{
+			"h": "counterspell_phb"
+		},
+		{
+			"h": "conjure%20barrage_phb"
+		},
+		{
+			"h": "conjure%20animals_phb"
+		},
+		{
+			"h": "clairvoyance_phb"
+		},
+		{
+			"h": "catnap_xge"
+		},
+		{
+			"h": "call%20lightning_phb"
+		},
+		{
+			"h": "blink_phb"
+		},
+		{
+			"h": "blinding%20smite_phb"
+		},
+		{
+			"h": "bestow%20curse_phb"
+		},
+		{
+			"h": "beacon%20of%20hope_phb"
+		},
+		{
+			"h": "aura%20of%20vitality_phb"
+		},
+		{
+			"h": "animate%20dead_phb"
+		},
+		{
+			"h": "zone%20of%20truth_phb"
+		},
+		{
+			"h": "web_phb"
+		},
+		{
+			"h": "warding%20wind_xge"
+		},
+		{
+			"h": "warding%20bond_phb"
+		},
+		{
+			"h": "tasha's%20mind%20whip_tce"
+		},
+		{
+			"h": "summon%20beast_tce"
+		},
+		{
+			"h": "suggestion_phb"
+		},
+		{
+			"h": "spiritual%20weapon_phb"
+		},
+		{
+			"h": "spike%20growth_phb"
+		},
+		{
+			"h": "spider%20climb_phb"
+		},
+		{
+			"h": "snilloc's%20snowball%20swarm_xge"
+		},
+		{
+			"h": "skywrite_xge"
+		},
+		{
+			"h": "silence_phb"
+		},
+		{
+			"h": "shatter_phb"
+		},
+		{
+			"h": "shadow%20blade_xge"
+		},
+		{
+			"h": "see%20invisibility_phb"
+		},
+		{
+			"h": "scorching%20ray_phb"
+		},
+		{
+			"h": "rope%20trick_phb"
+		},
+		{
+			"h": "ray%20of%20enfeeblement_phb"
+		},
+		{
+			"h": "pyrotechnics_xge"
+		},
+		{
+			"h": "protection%20from%20poison_phb"
+		},
+		{
+			"h": "prayer%20of%20healing_phb"
+		},
+		{
+			"h": "phantasmal%20force_phb"
+		},
+		{
+			"h": "pass%20without%20trace_phb"
+		},
+		{
+			"h": "nystul's%20magic%20aura_phb"
+		},
+		{
+			"h": "moonbeam_phb"
+		},
+		{
+			"h": "misty%20step_phb"
+		},
+		{
+			"h": "mirror%20image_phb"
+		},
+		{
+			"h": "mind%20spike_xge"
+		},
+		{
+			"h": "melf's%20acid%20arrow_phb"
+		},
+		{
+			"h": "maximilian's%20earthen%20grasp_xge"
+		},
+		{
+			"h": "magic%20weapon_phb"
+		},
+		{
+			"h": "magic%20mouth_phb"
+		},
+		{
+			"h": "locate%20object_phb"
+		},
+		{
+			"h": "locate%20animals%20or%20plants_phb"
+		},
+		{
+			"h": "levitate_phb"
+		},
+		{
+			"h": "lesser%20restoration_phb"
+		},
+		{
+			"h": "knock_phb"
+		},
+		{
+			"h": "invisibility_phb"
+		},
+		{
+			"h": "hold%20person_phb"
+		},
+		{
+			"h": "heat%20metal_phb"
+		},
+		{
+			"h": "healing%20spirit_xge"
+		},
+		{
+			"h": "gust%20of%20wind_phb"
+		},
+		{
+			"h": "gentle%20repose_phb"
+		},
+		{
+			"h": "flaming%20sphere_phb"
+		},
+		{
+			"h": "flame%20blade_phb"
+		},
+		{
+			"h": "find%20traps_phb"
+		},
+		{
+			"h": "find%20steed_phb"
+		},
+		{
+			"h": "enthrall_phb"
+		},
+		{
+			"h": "enlarge%2freduce_phb"
+		},
+		{
+			"h": "enhance%20ability_phb"
+		},
+		{
+			"h": "earthbind_xge"
+		},
+		{
+			"h": "dust%20devil_xge"
+		},
+		{
+			"h": "dragon's%20breath_xge"
+		},
+		{
+			"h": "detect%20thoughts_phb"
+		},
+		{
+			"h": "darkvision_phb"
+		},
+		{
+			"h": "darkness_phb"
+		},
+		{
+			"h": "crown%20of%20madness_phb"
+		},
+		{
+			"h": "cordon%20of%20arrows_phb"
+		},
+		{
+			"h": "continual%20flame_phb"
+		},
+		{
+			"h": "cloud%20of%20daggers_phb"
+		},
+		{
+			"h": "calm%20emotions_phb"
+		},
+		{
+			"h": "branding%20smite_phb"
+		},
+		{
+			"h": "blur_phb"
+		},
+		{
+			"h": "blindness%2fdeafness_phb"
+		},
+		{
+			"h": "beast%20sense_phb"
+		},
+		{
+			"h": "barkskin_phb"
+		},
+		{
+			"h": "augury_phb"
+		},
+		{
+			"h": "arcane%20lock_phb"
+		},
+		{
+			"h": "animal%20messenger_phb"
+		},
+		{
+			"h": "alter%20self_phb"
+		},
+		{
+			"h": "aid_phb"
+		},
+		{
+			"h": "aganazzar's%20scorcher_xge"
+		},
+		{
+			"h": "zephyr%20strike_xge"
+		},
+		{
+			"h": "wrathful%20smite_phb"
+		},
+		{
+			"h": "witch%20bolt_phb"
+		},
+		{
+			"h": "unseen%20servant_phb"
+		},
+		{
+			"h": "thunderwave_phb"
+		},
+		{
+			"h": "thunderous%20smite_phb"
+		},
+		{
+			"h": "tenser's%20floating%20disk_phb"
+		},
+		{
+			"h": "tasha's%20hideous%20laughter_phb"
+		},
+		{
+			"h": "tasha's%20caustic%20brew_tce"
+		},
+		{
+			"h": "speak%20with%20animals_phb"
+		},
+		{
+			"h": "snare_xge"
+		},
+		{
+			"h": "sleep_phb"
+		},
+		{
+			"h": "silent%20image_phb"
+		},
+		{
+			"h": "shield%20of%20faith_phb"
+		},
+		{
+			"h": "shield_phb"
+		},
+		{
+			"h": "searing%20smite_phb"
+		},
+		{
+			"h": "sanctuary_phb"
+		},
+		{
+			"h": "ray%20of%20sickness_phb"
+		},
+		{
+			"h": "purify%20food%20and%20drink_phb"
+		},
+		{
+			"h": "protection%20from%20evil%20and%20good_phb"
+		},
+		{
+			"h": "magic%20missile_phb"
+		},
+		{
+			"h": "mage%20armor_phb"
+		},
+		{
+			"h": "longstrider_phb"
+		},
+		{
+			"h": "jump_phb"
+		},
+		{
+			"h": "inflict%20wounds_phb"
+		},
+		{
+			"h": "illusory%20script_phb"
+		},
+		{
+			"h": "identify_phb"
+		},
+		{
+			"h": "ice%20knife_xge"
+		},
+		{
+			"h": "hunter's%20mark_phb"
+		},
+		{
+			"h": "hex_phb"
+		},
+		{
+			"h": "heroism_phb"
+		},
+		{
+			"h": "hellish%20rebuke_phb"
+		},
+		{
+			"h": "healing%20word_phb"
+		},
+		{
+			"h": "hail%20of%20thorns_phb"
+		},
+		{
+			"h": "guiding%20bolt_phb"
+		},
+		{
+			"h": "grease_phb"
+		},
+		{
+			"h": "goodberry_phb"
+		},
+		{
+			"h": "fog%20cloud_phb"
+		},
+		{
+			"h": "find%20familiar_phb"
+		},
+		{
+			"h": "feather%20fall_phb"
+		},
+		{
+			"h": "false%20life_phb"
+		},
+		{
+			"h": "faerie%20fire_phb"
+		},
+		{
+			"h": "expeditious%20retreat_phb"
+		},
+		{
+			"h": "entangle_phb"
+		},
+		{
+			"h": "ensnaring%20strike_phb"
+		},
+		{
+			"h": "earth%20tremor_xge"
+		},
+		{
+			"h": "divine%20favor_phb"
+		},
+		{
+			"h": "dissonant%20whispers_phb"
+		},
+		{
+			"h": "disguise%20self_phb"
+		},
+		{
+			"h": "detect%20poison%20and%20disease_phb"
+		},
+		{
+			"h": "detect%20magic_phb"
+		},
+		{
+			"h": "detect%20evil%20and%20good_phb"
+		},
+		{
+			"h": "cure%20wounds_phb"
+		},
+		{
+			"h": "create%20or%20destroy%20water_phb"
+		},
+		{
+			"h": "comprehend%20languages_phb"
+		},
+		{
+			"h": "compelled%20duel_phb"
+		},
+		{
+			"h": "command_phb"
+		},
+		{
+			"h": "color%20spray_phb"
+		},
+		{
+			"h": "chromatic%20orb_phb"
+		},
+		{
+			"h": "charm%20person_phb"
+		},
+		{
+			"h": "chaos%20bolt_xge"
+		},
+		{
+			"h": "ceremony_xge"
+		},
+		{
+			"h": "cause%20fear_xge"
+		},
+		{
+			"h": "catapult_xge"
+		},
+		{
+			"h": "burning%20hands_phb"
+		},
+		{
+			"h": "bless_phb"
+		},
+		{
+			"h": "beast%20bond_xge"
+		},
+		{
+			"h": "bane_phb"
+		},
+		{
+			"h": "arms%20of%20hadar_phb"
+		},
+		{
+			"h": "armor%20of%20agathys_phb"
+		},
+		{
+			"h": "animal%20friendship_phb"
+		},
+		{
+			"h": "alarm_phb"
+		},
+		{
+			"h": "absorb%20elements_xge"
+		},
+		{
+			"h": "word%20of%20radiance_xge"
+		},
+		{
+			"h": "vicious%20mockery_phb"
+		},
+		{
+			"h": "true%20strike_phb"
+		},
+		{
+			"h": "toll%20the%20dead_xge"
+		},
+		{
+			"h": "thunderclap_xge"
+		},
+		{
+			"h": "thorn%20whip_phb"
+		},
+		{
+			"h": "thaumaturgy_phb"
+		},
+		{
+			"h": "sword%20burst_tce"
+		},
+		{
+			"h": "spare%20the%20dying_phb"
+		},
+		{
+			"h": "shocking%20grasp_phb"
+		},
+		{
+			"h": "shillelagh_phb"
+		},
+		{
+			"h": "shape%20water_xge"
+		},
+		{
+			"h": "sacred%20flame_phb"
+		},
+		{
+			"h": "resistance_phb"
+		},
+		{
+			"h": "ray%20of%20frost_phb"
+		},
+		{
+			"h": "produce%20flame_phb"
+		},
+		{
+			"h": "primal%20savagery_xge"
+		},
+		{
+			"h": "prestidigitation_phb"
+		},
+		{
+			"h": "poison%20spray_phb"
+		},
+		{
+			"h": "mold%20earth_xge"
+		},
+		{
+			"h": "minor%20illusion_phb"
+		},
+		{
+			"h": "mind%20sliver_tce"
+		},
+		{
+			"h": "message_phb"
+		},
+		{
+			"h": "mending_phb"
+		},
+		{
+			"h": "magic%20stone_xge"
+		},
+		{
+			"h": "mage%20hand_phb"
+		},
+		{
+			"h": "lightning%20lure_tce"
+		},
+		{
+			"h": "light_phb"
+		},
+		{
+			"h": "infestation_xge"
+		},
+		{
+			"h": "gust_xge"
+		},
+		{
+			"h": "guidance_phb"
+		},
+		{
+			"h": "green-flame%20blade_tce"
+		},
+		{
+			"h": "frostbite_xge"
+		},
+		{
+			"h": "friends_phb"
+		},
+		{
+			"h": "fire%20bolt_phb"
+		},
+		{
+			"h": "eldritch%20blast_phb"
+		},
+		{
+			"h": "druidcraft_phb"
+		},
+		{
+			"h": "dancing%20lights_phb"
+		},
+		{
+			"h": "create%20bonfire_xge"
+		},
+		{
+			"h": "control%20flames_xge"
+		},
+		{
+			"h": "chill%20touch_phb"
+		},
+		{
+			"h": "booming%20blade_tce"
+		},
+		{
+			"h": "blade%20ward_phb"
+		},
+		{
+			"h": "acid%20splash_phb"
+		},
+		{
+			"h": "wish_phb"
+		}
+	],
+	"sources": [
+		"XGE",
+		"PHB",
+		"TCE"
+	]
+}
